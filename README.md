@@ -2,12 +2,12 @@
 Hi, I'm Hamada Sayed !
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
-<p align="center">
-    <a href="https://github.com/HamadaSaYeed"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;Software+Engineer;Always+learning+new+things&center=true&width=400&height=50"></a>
+<p align="left">
+    <a href="https://github.com/HamadaSaYeed"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;Software+Engineer;Always+learning+new+things&center=true&width=350&height=45"></a>
 </p>
 <pre style="font-family: Arial, Helvetica, sans-serif;" >                                                               
 💻 I am a Student in Computer Science and Full Stack Developer
-📝 I am a competitive programmer at <a href="https://codeforces.com/profile/hamada12">Codeforces</a>
+📝 I am a competitive programmer at <a target="_blank" href="https://codeforces.com/profile/hamada12">Codeforces</a>
 🌱 Learning about Computer Vision and Machine Learning stuff
 🚩 Interested in Full Stack Machine Learning Application development
 </pre>
