@@ -15,7 +15,7 @@ Hi, I'm Hamada Sayed !
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
 
-##### 💪 Programming Languages
+#####  Programming Languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-2c292d.svg?style=for-the-badge&logo=html5&logoColor=ffffff"></a>
@@ -26,7 +26,7 @@ Hi, I'm Hamada Sayed !
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a>
 
-##### 💪 Frameworks and Libraries
+#####  Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-2c292d.svg?style=for-the-badge&logo=Keras&logoColor=ffffff"></a>
@@ -40,7 +40,7 @@ Hi, I'm Hamada Sayed !
 
 </p>
 
-##### 💪 Databases and Cloud Hosting
+#####  Databases and Cloud Hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a>
@@ -50,7 +50,7 @@ Hi, I'm Hamada Sayed !
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-2c292d?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff"></a>
 </p>
 
-##### 💪 Software and Tools
+#####  Software and Tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-2c292d.svg?style=for-the-badge&logo=adobe&logoColor=ffffff"></a>
@@ -66,7 +66,7 @@ Hi, I'm Hamada Sayed !
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
 </p>
 
-##### 💪 Workspace
+#####  Workspace
 <p>
     <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-2c292d?style=for-the-badge&logo=apple&logoColor=ffffff"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-2c292d?&style=for-the-badge&logo=spotify&logoColor=ffffff"></a>
@@ -91,7 +91,3 @@ Hi, I'm Hamada Sayed !
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
 </p>
 <br>
-<h6 align="left" >
-   I <span style="color:red">❤</span> Open Source. 
-   <br>
-</h6>
