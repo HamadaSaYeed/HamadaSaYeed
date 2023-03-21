@@ -7,7 +7,7 @@ Hi, I'm Hamada Sayed !
 </p>
 <pre style="font-family: Arial, Helvetica, sans-serif;" >                                                               
 💻 I am a Student in Computer Science and Full Stack Developer
-📝 I have a strong interest in Data Science and Artificial Intelligence
+📝 I am a competitive programmer at `Codeforces`
 🌱 Learning about Computer Vision and Machine Learning stuff
 🚩 Interested in Full Stack Machine Learning Application development
 </pre>
