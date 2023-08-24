@@ -1,10 +1,12 @@
 <h1 align="center" style="font-family: Arial, Helvetica, sans-serif;">
 Hi, I'm Hamada Sayed !
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = "250px"/>
 
 <p align="left">
     <a href="https://github.com/HamadaSaYeed"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;Software+Engineer;Always+learning+new+things&center=true&width=350&height=45"></a>
 </p>
+
 <pre style="font-family: Arial, Helvetica, sans-serif;" >                                                               
 💻 I am a Student in Computer Science and Full Stack Developer
 📝 I am a competitive programmer at <a target="_blank" href="https://codeforces.com/profile/hamada12">Codeforces</a>
